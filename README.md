@@ -10,4 +10,4 @@
 Last Updated on 13/6/2022
 
 [Facebook]: https://fb.me/271.hnahkna
-[Mail]: <a href="mailto:lehuynhankhanh89@gmail.com" /a>
+[Mail]: mailto:lehuynhankhanh89@gmail.com
