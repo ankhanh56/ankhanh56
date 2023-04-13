@@ -1,13 +1,11 @@
 ### Hi, I'm Khanh 👋
 - I’m currently learning at FPT Aptech.
-- Email: bibabibuxibua2000@gmail.com
+- Email: lhkankhanh00@gmail.com
 - Facebook: [Facebook]
-- Discord: AnKhánh#5150
-### Spotify Playing 🎧
-
+- Discord: AnKhánh#2000
 
 ---
 
-Last Updated on 13/6/2022
+Last Updated on 13/04/2023
 
 [Facebook]: https://fb.me/271.hnahkna
