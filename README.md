@@ -5,8 +5,6 @@
 - Discord: AnKhánh#5150
 ### Spotify Playing 🎧
 
-[Spotify Playlist](https://song.link/ankhanh56)
-
 
 ---
 
