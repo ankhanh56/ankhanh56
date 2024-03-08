@@ -1,7 +1,7 @@
 ### Hi, I'm Khanh 👋
 - Email: lhkankhanh00@gmail.com
 - Facebook: [Facebook]
-- Discord: AnKhánh#2000
+- Discord: ankhanh56
 
 ---
 
