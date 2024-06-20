@@ -12,7 +12,7 @@ Last Updated on 10/04/2024
 
 
 <h1 align="center">Hi 👋, I'm Khanh</h1>
-<h3 align="center">Amateur Developer</h3>
+<h3 align="center">Nothing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankhanh56&label=Profile%20views&color=0e75b6&style=flat" alt="ankhanh56" /> </p>
 
