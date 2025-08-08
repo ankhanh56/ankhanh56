@@ -7,5 +7,5 @@
 - Discord: ankhanh56
 
 ---
-
-Last Updated on 20/04/2025
+i hate Java install Offline(Default download and install), should download version ONLINE, pls
+Last Updated on 09/08/2025
