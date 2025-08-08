@@ -8,4 +8,6 @@
 
 ---
 i hate Java install Offline(Default download and install), should download version ONLINE, pls
+
+---
 Last Updated on 09/08/2025
