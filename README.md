@@ -7,5 +7,5 @@
 - Discord: ankhanh56
 
 ---
-
+<img width="836" height="272" alt="image" src="https://github.com/ankhanh56/ankhanh56/blob/main/IMG_20220529_211907.jpg?raw=true" />
 Last Updated on 25/10/2025
